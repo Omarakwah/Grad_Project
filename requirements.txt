@@ -1,0 +1,13 @@
+python-dotenv
+pypdf
+llama-index
+qdrant_client
+torch
+transformers
+llama-hub
+gradio 
+llama-index-llms-langchain
+llama_index.llms.fireworks
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-llms-huggingface
